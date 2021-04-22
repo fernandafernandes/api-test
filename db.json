@@ -1,0 +1,78 @@
+{ 
+    "comentarios":[
+        {
+            
+            "criador":"cliente",
+            "mensagem":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic d",
+            "ticketId":"1"
+        },
+        {
+            
+            "criador":"admin",
+            "mensagem":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+            "ticketId":"1"
+        },
+        {
+            
+            "criador":"cliente",
+            "mensagem":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic",
+            "ticketId":"1"
+        },
+        {
+            
+            "criador":"admin",
+            "mensagem":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic ",
+            "ticketId":"1"
+        },
+        {
+            
+            "criador":"cliente",
+            "mensagem":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic d",
+            "ticketId":"2"
+        },
+        {
+            
+            "criador":"admin",
+            "mensagem":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic It is a long established fact that a reader will be distracted",
+            "ticketId":"2"
+        },
+        {
+            
+            "criador":"cliente",
+            "mensagem":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the",
+            "ticketId":"2"
+        }                         
+
+    ],
+    "tickets":[
+        {
+            "id":"1",
+            "assunto":"Ajuda com Plataforma",
+            "criacao":"20/03/2021",
+            "status":"Em processso",
+            "atualizacao":"25/03/2021"
+        },
+        {
+            "id":"2",
+            "assunto":"Ajuda com Curso",
+            "criacao":"27/03/2021",
+            "status":"Cancelado",
+            "atualizacao":"30/03/2021"
+        },
+        {
+            "id":"3",
+            "assunto":"Ajuda com Financeiro",
+            "criacao":"01/04/2021",
+            "status":"Em processso",
+            "atualizacao":"10/04/2021"
+        },
+        {
+            "id":"4",
+            "assunto":"Ajuda com Curso",
+            "criacao":"15/03/2021",
+            "status":"Concluído",
+            "atualizacao":"17/04/2021"
+        }
+    ]
+           
+}
